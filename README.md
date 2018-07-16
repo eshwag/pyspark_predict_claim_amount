@@ -1,2 +1,2 @@
-# pyspark_predict_claim_amount
-Predict Claim Amount using machine learning models in pyspark.
+# Objective is to predict Claim_Amount using machine learning models in pyspark
+used pyspark library to preprocess and build buid models for predicting claim amount.
